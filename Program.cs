@@ -10,7 +10,7 @@ namespace Escape_Sequences
     {
         static void Main()
         {
-            // Escape sequences are used to express characters that cannot be express or interpreted literally.
+            // Escape sequences are used to express characters that cannot be expressed or interpreted literally.
             Console.WriteLine("\n");    // New line
             Console.WriteLine("\\");    // Backslash
             Console.WriteLine("\0");    // Null
